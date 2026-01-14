@@ -38,14 +38,30 @@ I am a diligent and self-reliant developer with a knack for transforming complex
 
 ---
 
+### 📊 My Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackxuan0305&show_icons=true&theme=transparent&hide_border=true" alt="Jack's Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jackxuan0305&show_icons=true&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jackxuan0305&show_icons=true&theme=flat&hide_border=true">
+    <img alt="Jack's Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jackxuan0305&show_icons=true&theme=flat&hide_border=true">
+  </picture>
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackxuan0305&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackxuan0305&layout=compact&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackxuan0305&layout=compact&theme=flat&hide_border=true">
+    <img alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackxuan0305&layout=compact&theme=flat&hide_border=true">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jackxuan0305/jackxuan0305/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackxuan0305/jackxuan0305/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackxuan0305/jackxuan0305/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/jackxuan0305/jackxuan0305/output/github-contribution-grid-snake.svg" alt="Snake" />
+  </picture>
 </p>
 
 ### 📫 Contact Me / 聯繫我
