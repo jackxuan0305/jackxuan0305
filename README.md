@@ -45,7 +45,7 @@ I am a diligent developer with a knack for transforming complex functions into u
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Deployment-0081C9?style=for-the-badge&logo=appstore&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Deployment-0081C9?style=for-the-badge&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 - **核心經驗:** Web3 介面開發、數位資產管理系統、Zego 實時音視頻插件應用、iOS/Android 雙平台正式上架。
