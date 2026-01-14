@@ -2,24 +2,33 @@
 
 # 👋 Hi there, I'm Jack
 ### 👨‍💻 Front-End / Flutter Mobile App Developer
-**Based in Kuala Lumpur, Malaysia** 📍
+**Specializing in Vue 3, Flutter & Web3 Solutions** 🚀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transforming+complex+code+to+simple+UI;Expert+in+Vue3+and+Flutter;Web3+and+Digital+Asset+Explorer)](https://git.io/typing-svg)
 
 [English](#english-version) | [中文版](#chinese-version)
 
 </div>
+
+---
 
 <a name="english-version"></a>
 
 ## 🇺🇸 English Version
 
 ### 🖋️ Profile
-I am a diligent and self-reliant developer with a knack for transforming complex functions into user-friendly solutions. I excel at self-learning and tackling challenging code to benefit team collaboration.
+I am a diligent developer with a knack for transforming complex functions into user-friendly solutions. I excel at self-learning and tackling challenging code to benefit team collaboration.
 
 ### 🛠️ Technical Skills
-- **Frameworks:** Vue 3, Flutter 3
-- **Web3 & Digital Assets:** Web3 Interface Development
-- **Tools:** Git, Canva, Zego Plugin (Voice/Video)
-- **Platforms:** App Store & Google Play Deployment 
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+- **Specialties:** Web3 Interface, USDT Management, Zego Plugin (Audio/Video), App Store & Google Play Deployment.
 
 ---
 
@@ -31,10 +40,14 @@ I am a diligent and self-reliant developer with a knack for transforming complex
 我是一名勤奮且獨立開發的開發者，擅長將複雜的功能簡化為易於使用的方案。我具備極強的自學能力，熱衷於鑽研具挑戰性的代碼以提升團隊協作效率。
 
 ### 🛠️ 技術棧
-- **框架:** Vue 3, Flutter 3
-- **Web3 與數位資產:** Web3 介面開發
-- **工具/插件:** Git 版本管理, Canva, Zego 實時音視頻插件
-- **平台經驗:** 獨立完成 App Store 與 Google Play 的上架發布 
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Deployment-0081C9?style=for-the-badge&logo=appstore&logoColor=white" />
+</p>
+
+- **核心經驗:** Web3 介面開發、數位資產管理系統、Zego 實時音視頻插件應用、iOS/Android 雙平台正式上架。
 
 ---
 
@@ -46,9 +59,7 @@ I am a diligent and self-reliant developer with a knack for transforming complex
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=jackxuan0305&show_icons=true&theme=flat&hide_border=true">
     <img alt="Jack's Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jackxuan0305&show_icons=true&theme=flat&hide_border=true">
   </picture>
-  
   <br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackxuan0305&layout=compact&theme=dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackxuan0305&layout=compact&theme=flat&hide_border=true">
