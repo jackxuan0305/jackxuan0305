@@ -17,24 +17,24 @@ I am a diligent and self-reliant developer with a knack for transforming complex
 
 ### 🛠️ Technical Skills
 - **Frameworks:** Vue 3, Flutter 3
-- **Languages:** Python, JavaScript
-- **Tools:** Git, Canva, Zego Plugin
+- **Web3 & Digital Assets:** Web3 Interface Development
+- **Tools:** Git, Canva, Zego Plugin (Voice/Video)
 - **Platforms:** App Store & Google Play Deployment 
 
 ---
 
 <a name="chinese-version"></a>
 
-## 🇨🇳 中文版
+## 🇲🇾 中文版
 
-### 🖋️ 个人简介
-我是一名勤奋且独立开发的程序员，擅长将复杂的功能简化为易于使用的方案。我具备极强的自学能力，热衷于钻研具挑战性的代码以提升团队协作效率。
+### 🖋️ 個人簡介
+我是一名勤奮且獨立開發的開發者，擅長將複雜的功能簡化為易於使用的方案。我具備極強的自學能力，熱衷於鑽研具挑戰性的代碼以提升團隊協作效率。
 
-### 🛠️ 技术栈
+### 🛠️ 技術棧
 - **框架:** Vue 3, Flutter 3
-- **编程语言:** Python, JavaScript
-- **工具/插件:** Git 版本管理, Canva, Zego 实时音视频插件
-- **平台经验:** 独立完成 App Store 与 Google Play 的上架发布 
+- **Web3 與數位資產:** Web3 介面開發
+- **工具/插件:** Git 版本管理, Canva, Zego 實時音視頻插件
+- **平台經驗:** 獨立完成 App Store 與 Google Play 的上架發布 
 
 ---
 
@@ -48,9 +48,9 @@ I am a diligent and self-reliant developer with a knack for transforming complex
   <img src="https://raw.githubusercontent.com/jackxuan0305/jackxuan0305/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
-### 📫 Contact Me / 联系我
+### 📫 Contact Me / 聯繫我
 - 📧 Email: **falee70@gmail.com**
-- 💬 Languages: Chinese, English, Malay
+- 💬 Languages: 華語 (Chinese), 英語 (English), 馬來語 (Malay)
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jackxuan0305.jackxuan0305" alt="Visitors" />
